@@ -1,0 +1,9 @@
+.btnhover:hover {
+    filter: brightness(0.9);
+}
+
+@media screen and (max-width: 600px){
+    .sm-dflex {
+        flex-direction: column;
+    }
+}
